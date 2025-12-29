@@ -12,16 +12,12 @@ Model dikembangkan menggunakan metode YOLO Classification dan diimplementasikan 
 
 ⚙️ Petunjuk Penggunaan
 
-  1. Install Dependency
-     pip install -r requirements.txt
-
-  2. Training Model (Opsional)
-     python train.py
-     
-  3️. Menjalankan Aplikasi
-     python app.py
-     Setelah itu, buka browser dan akses:
-     http://localhost:7860
+  1. Install Dependency :  pip install -r requirements.txt
+  2. Training Model (Opsional) :  python train.py
+  3. Menjalankan Aplikasi : 
+     -python app.py
+     -Setelah itu, buka browser dan akses:
+     -http://localhost:7860
 
 📚 Dataset
 
